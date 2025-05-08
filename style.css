@@ -1,0 +1,13 @@
+.card-img-top{
+
+
+width: 300px;
+display: flex;
+justify-content: center;
+margin: 0 auto;
+height: 300px;
+object-fit: cover;
+}
+.card{
+    width: 18rem;
+}
